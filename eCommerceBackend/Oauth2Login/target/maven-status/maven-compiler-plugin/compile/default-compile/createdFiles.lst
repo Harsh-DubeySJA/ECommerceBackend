@@ -1,0 +1,3 @@
+com\ecommerce\Oauth2Login\config\Oauth2Configuration.class
+com\ecommerce\Oauth2Login\Oauth2LoginApplication.class
+com\ecommerce\Oauth2Login\config\PaymentController.class
